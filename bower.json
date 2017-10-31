@@ -1,0 +1,17 @@
+{
+  "name": "react-express",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "rajkumar <rajkumar.arisetty@mindfiresolutions.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/raj143225/react-express",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
